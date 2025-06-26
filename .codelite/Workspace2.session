@@ -4,9 +4,9 @@
   <wxString Value="C:\Users\Gebruiker\Workspaces\Workspace2\Workspace2.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="C:\Users\Gebruiker\Workspaces\Workspace2\Project2\main.c" Name="FileName"/>
+      <wxString Value="C:\Users\Gebruiker\Workspaces\Workspace2\FirstProgram\main.c" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="7" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
