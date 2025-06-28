@@ -2,21 +2,24 @@
 <CodeLite_Workspace Name="Workspace2" Database="" Version="10000">
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <Project Name="Section3Challenge" Path="Section3Challenge/Section3Challenge.project" Active="No"/>
-  <Project Name="Section4Challenge" Path="Section4Challenge/Section4Challenge.project" Active="Yes"/>
+  <Project Name="Section4C1Challenge" Path="Section4Challenge/Section4Challenge.project" Active="No"/>
+  <Project Name="Section4C2Challenge" Path="Section4C2Challenge/Section4C2Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Debug"/>
       <Project Name="Section3Challenge" ConfigName="Debug"/>
       <Project Name="Section3Challenge" ConfigName="Debug"/>
-      <Project Name="Section4Challenge" ConfigName="Debug"/>
+      <Project Name="Section4C1Challenge" ConfigName="Debug"/>
+      <Project Name="Section4C2Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="FirstProgram" ConfigName="Release"/>
       <Project Name="Section3Challenge" ConfigName="Release"/>
       <Project Name="Section3Challenge" ConfigName="Release"/>
-      <Project Name="Section4Challenge" ConfigName="Release"/>
+      <Project Name="Section4C1Challenge" ConfigName="Release"/>
+      <Project Name="Section4C2Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
