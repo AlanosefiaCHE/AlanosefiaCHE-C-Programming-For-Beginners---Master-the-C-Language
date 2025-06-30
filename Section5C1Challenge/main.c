@@ -20,9 +20,8 @@ int main()
 	double years = yearsBasedOnMinutes(minutesInYear,minutes);
 	double days = daysBasedOnMinutes(minutes);
 	
-	printf("Minutes in a day are: %.2f\n", days);
-	printf("Minutes in a year are: %.10f\n", years);
-
+	printf("%d minutes is equal to: %.2f days\n", minutes, days);
+	printf("%d minutes is equal to: %.10f years\n", minutes, years);
 
 	return 0;
 }
