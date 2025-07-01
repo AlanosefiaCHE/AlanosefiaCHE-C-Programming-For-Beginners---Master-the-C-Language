@@ -11,6 +11,7 @@ return height*width;
 
 int main(int argc, char **argv)
 {
+	// Dit is sectie 5.2
 	struct rectangle {
 	double width;
 	double height;
