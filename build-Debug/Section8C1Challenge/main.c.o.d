@@ -1,0 +1,1 @@
+../build-Debug/Section8C1Challenge/main.c.o: main.c
