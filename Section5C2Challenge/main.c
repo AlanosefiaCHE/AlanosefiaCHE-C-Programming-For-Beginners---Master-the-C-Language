@@ -2,7 +2,7 @@
 
 int main()
 {
-
+	// Dit is sectie 6.2
 	printf("int %zd\n", sizeof(int)); 
 	printf("char %zd\n", sizeof(char)); 
 	printf("long %zd\n", sizeof(long));

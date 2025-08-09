@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+// Dit is sectie 6.1
 double daysBasedOnMinutes(double minutes){
 	return minutes/1440;
 	};

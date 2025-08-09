@@ -2,6 +2,7 @@
 
 int main(int argc, char **argv)
 {
+	// Dit is sectie 5.1
 	enum Company {GOOGLE, FACEBOOK, XEROX, YAHOO, EBAY, MICROSOFT};
 
 	struct myCompanies {
