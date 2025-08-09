@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "==========Building project:[ Section8C2Challenge - Debug ]=========="
-	@cd "Section8C2Challenge" && "$(MAKE)" -f  "Section8C2Challenge.mk"
+	@echo "==========Building project:[ Section10C1Challenge - Debug ]=========="
+	@cd "Section10C1Challenge" && "$(MAKE)" -f  "Section10C1Challenge.mk"
 clean:
-	@echo "==========Cleaning project:[ Section8C2Challenge - Debug ]----------"
-	@cd "Section8C2Challenge" && "$(MAKE)" -f  "Section8C2Challenge.mk" clean
+	@echo "==========Cleaning project:[ Section10C1Challenge - Debug ]----------"
+	@cd "Section10C1Challenge" && "$(MAKE)" -f  "Section10C1Challenge.mk" clean

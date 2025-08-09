@@ -9,7 +9,10 @@
   <Project Name="Section7C1Challenge" Path="Section7C1Challenge/Section7C1Challenge.project" Active="No"/>
   <Project Name="Section7C2Challenge" Path="Workspace2/Workspace2.project" Active="No"/>
   <Project Name="Section8C1Challenge" Path="Section8C1Challenge/Section8C1Challenge.project" Active="No"/>
-  <Project Name="Section8C2Challenge" Path="Section8C2Challenge/Section8C2Challenge.project" Active="Yes"/>
+  <Project Name="Section8C2Challenge" Path="Section8C2Challenge/Section8C2Challenge.project" Active="No"/>
+  <Project Name="Section9C1Challenge" Path="Section9C1Challenge/Section9C1Challenge.project" Active="No"/>
+  <Project Name="Section9C2Challenge" Path="Section9C2Challenge/Section9C2Challenge.project" Active="No"/>
+  <Project Name="Section10C1Challenge" Path="Section10C1Challenge/Section10C1Challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -24,6 +27,9 @@
       <Project Name="Section7C2Challenge" ConfigName="Debug"/>
       <Project Name="Section8C1Challenge" ConfigName="Debug"/>
       <Project Name="Section8C2Challenge" ConfigName="Debug"/>
+      <Project Name="Section9C1Challenge" ConfigName="Debug"/>
+      <Project Name="Section9C2Challenge" ConfigName="Debug"/>
+      <Project Name="Section10C1Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -38,6 +44,9 @@
       <Project Name="Section7C2Challenge" ConfigName="Release"/>
       <Project Name="Section8C1Challenge" ConfigName="Release"/>
       <Project Name="Section8C2Challenge" ConfigName="Release"/>
+      <Project Name="Section9C1Challenge" ConfigName="Release"/>
+      <Project Name="Section9C2Challenge" ConfigName="Release"/>
+      <Project Name="Section10C1Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
