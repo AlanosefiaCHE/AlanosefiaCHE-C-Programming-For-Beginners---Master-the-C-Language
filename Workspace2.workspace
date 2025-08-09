@@ -6,7 +6,8 @@
   <Project Name="Section4C2Challenge" Path="Section4C2Challenge/Section4C2Challenge.project" Active="No"/>
   <Project Name="Section5C1Challenge" Path="Section5C1Challenge/Section5C1Challenge.project" Active="No"/>
   <Project Name="Section5C2Challenge" Path="Section5C2Challenge/Section5C2Challenge.project" Active="No"/>
-  <Project Name="Section7C1Challenge" Path="Section7C1Challenge/Section7C1Challenge.project" Active="Yes"/>
+  <Project Name="Section7C1Challenge" Path="Section7C1Challenge/Section7C1Challenge.project" Active="No"/>
+  <Project Name="Section7C2Challenge" Path="Workspace2/Workspace2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -18,6 +19,7 @@
       <Project Name="Section5C1Challenge" ConfigName="Debug"/>
       <Project Name="Section5C2Challenge" ConfigName="Debug"/>
       <Project Name="Section7C1Challenge" ConfigName="Debug"/>
+      <Project Name="Section7C2Challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -29,6 +31,7 @@
       <Project Name="Section5C1Challenge" ConfigName="Release"/>
       <Project Name="Section5C2Challenge" ConfigName="Release"/>
       <Project Name="Section7C1Challenge" ConfigName="Release"/>
+      <Project Name="Section7C2Challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
