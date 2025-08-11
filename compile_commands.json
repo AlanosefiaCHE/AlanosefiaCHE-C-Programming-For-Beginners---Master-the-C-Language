@@ -1,11 +1,39 @@
 [{
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C2Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C2Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C2Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C2Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Sectie14C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Sectie14C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Sectie14C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Sectie14C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C2Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C2Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C1Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C1Challenge",
 		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section10C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section16C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section9C2Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section9C2Challenge",
 		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section9C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section9C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section15C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section15C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section15C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section15C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\FirstProgram\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\FirstProgram",
@@ -14,6 +42,10 @@
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C1Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C1Challenge",
 		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section13C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section13C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section13C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section13C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section7C1Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section7C1Challenge",
@@ -26,6 +58,10 @@
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C2Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C2Challenge",
 		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section8C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section11C1Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section11C1Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section11C1Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section11C1Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section5C1Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section5C1Challenge",
@@ -42,6 +78,10 @@
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4C2Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4C2Challenge",
 		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4C2Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4C2Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+	}, {
+		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C3Challenge\\main.c",
+		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C3Challenge",
+		"command":	"C:/cygwin64/bin/x86_64-pc-cygwin-gcc.exe -c C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C3Challenge\\main.c -o C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section17C3Challenge\\main.c.o -target x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++ -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\x86_64-pc-cygwin -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include\\c++\\backward -IC:\\cygwin64\\bin\\usr\\lib\\gcc\\x86_64-pc-cygwin\\12\\include -IC:\\cygwin64\\bin\\usr\\include -IC:\\cygwin64\\bin\\usr\\include\\w32api -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
 	}, {
 		"file":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4Challenge\\main.c",
 		"directory":	"C:\\Users\\Gebruiker\\Workspaces\\Workspace2\\Section4Challenge",
